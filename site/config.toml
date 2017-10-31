@@ -16,7 +16,7 @@ canonifyurls = true
   authorlocation = "UK"
   authorwebsite = "http://scribblednotes.net"
   bio= "Female, mid forties, geek, photography nut. Powered by tea."
-  logo = "images/logo.png"
+  logo = "images/avatar@2x.jpg"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
