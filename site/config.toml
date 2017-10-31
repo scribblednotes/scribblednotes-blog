@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "A tiny slice of the web for spewing the guts of my mind."
-  cover = "images/cover.jpg"
+  cover = "images/IMG_1024.jpg"
   author = "Jackie"
   authorlocation = "UK"
   authorwebsite = "http://scribblednotes.net"
