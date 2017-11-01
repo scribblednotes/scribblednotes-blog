@@ -22,10 +22,10 @@ canonifyurls = true
   RSSLink = ""
   githubName = "scribblednotes"
   twitterName = "jackieplage"
+  instagramName = "jackieplage2"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
     twitter = "jackieplage"
-    instagram = "jackieplage2"
