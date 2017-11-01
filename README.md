@@ -1,4 +1,7 @@
-# Victor Hugo CMS Template
+The stuff below is what I've started scribblednotes.net with.  If you want your own similar site built with the Hugo static site generator and auto deployed to Netlify from your own github repo, then follow the directions below.
+
+
+## Victor Hugo CMS Template
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/casper-cms-template)
 
