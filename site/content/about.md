@@ -1,11 +1,9 @@
 +++
 date = "2016-10-31T22:15:23-04:00"
 draft = false
-title = "about"
+title = "About"
 
 +++
-
-### About
 
 Welcome!  You've found my little playground, a tiny slice of the web for spewing the guts of my mind.  Lucky you!
 
