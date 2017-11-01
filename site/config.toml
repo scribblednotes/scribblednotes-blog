@@ -29,3 +29,15 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = "jackieplage"
+
+    [[menu.main]]
+      name = "Home"
+      weight = -120
+      identifier = "blog"
+      url = "/"
+
+    [[menu.main]]
+      name = "About me"
+      weight = -110
+      identifier = "about"
+      url = "/about"
