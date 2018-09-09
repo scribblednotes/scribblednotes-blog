@@ -3,15 +3,15 @@ date = "2017-11-02T00:30:24+02:00"
 draft = false
 title = "I've Gone all Static!"
 slug = "ive-gone-all-static"
-tags = ["blogging","hugo","netlify"]
+tags = ["Blogging","Hugo","Netlify"]
 image = ""
 comments = false	# set false to hide Disqus
 share = false	# set false to hide share buttons
 menu= ""		# set "main" to add this content to the main menu
-author = ""
+author = "Jackie"
 +++
 
-It only seems like yesterday that I [set up a new blog](https://thoughtpixels.com/here-i-go-again/).  It was actually a couple of months ago.  How many posts do you think I've written since the initial one?  Yep, you guessed it, none.  A big fat 0.  I think that's partially down to the fact that I really wanted my blog running on the Ghost platform, but for reasons I won't go into, couldn't.  With a heavy sigh I then turned to the old default for blogging, WordPress.  Now, don't get me wrong, WordPress has served me very well over the years.  I began using it when the software was less than a year old, and was quite involved with the community back then.  I loved WordPress.  These days though, not so much.  It's big and bloated and is way overkill for a simple blog like mine.
+It seems like only yesterday that I [set up a new blog](https://thoughtpixels.com/here-i-go-again/).  It was actually a couple of months ago.  How many posts do you think I've written since the initial one?  Yep, you guessed it, none.  A big fat 0.  I think that's partially down to the fact that I really wanted my blog running on the Ghost platform, but for reasons I won't go into, couldn't.  With a heavy sigh I then turned to the old default for blogging, WordPress.  Now, don't get me wrong, WordPress has served me very well over the years.  I began using it when the software was less than a year old, and was quite involved with the community back then.  I loved WordPress.  These days though, not so much.  It's big and bloated and is way overkill for a simple blog like mine.
 
 Enter [Hugo](https://gohugo.io/).  This is my new love.  I can write a blog post in [Atom](https://atom.io), push it to [Github](https://github.com/scribblednotes/scribblednotes-casper-cms-template) and then [Netlify](https://www.netlify.com/) auto publishes it.  All for free!  It's a beautiful thing.  Also, it may not be Ghost, but I'm using a port of the default Ghost theme so I've brought a little bit of it over with me.
 

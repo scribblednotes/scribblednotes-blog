@@ -1,15 +1,15 @@
-baseurl = "/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Scribbled Notes"
+title = "Hello Friend"
 theme = "hugo-theme-hello-friend"
-copyright = "Copyright &copy; 2017 - 2018 Jackie Plage."
-paginate = 7
+copyright = ""
+paginate = 5
 
 [params]
-  subtitle = "A tiny slice of the web for spewing my words."
+  subtitle = "A simple theme for Hugo"
 
 [params.logo]
-  logoText = "Scribbled Notes"
+  logoText = "hello friend"
 #   or
 #
 #   path = "/img/your-example-logo.svg"
@@ -20,3 +20,7 @@ paginate = 7
     identifier = "about"
     name = "About"
     url = "/about"
+  [[menu.main]]
+    identifier = "showcase"
+    name = "Showcase"
+    url = "/showcase"

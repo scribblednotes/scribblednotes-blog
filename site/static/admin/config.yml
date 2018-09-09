@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/scribblednotes/scribblednotes-casper-cms-template # Path to your Github repository
+  repo: https://github.com/scribblednotes/scribblednotes-blog # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
