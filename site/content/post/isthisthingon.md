@@ -1,7 +1,7 @@
 +++
 date = "2017-11-01T00:34:24+02:00"
 draft = false
-title = "Is Thing Thing on?"
+title = "Is This Thing on?"
 slug = "is-this-thing-on"
 tags = ["Braindrain","NewThings"]
 image = ""
