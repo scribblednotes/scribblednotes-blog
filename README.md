@@ -1,4 +1,6 @@
-The stuff below is what I've started scribblednotes.net with.  If you want your own similar site built with the Hugo static site generator and auto deployed to Netlify from your own github repo, then follow the directions below.
+Old blog repo for scribblednotes.net which ran on Netlify using Hugo.
+
+I no longer maintain this repo, it's for my own archive purposes only.
 
 
 ## Victor Hugo CMS Template
